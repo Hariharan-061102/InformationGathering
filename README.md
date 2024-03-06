@@ -50,7 +50,8 @@ get further detail by using ip2location.com website.
 ## History of the website:
 ## Output:
 https://web.archive.org/
-![]()
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/45987ba0-02f2-49ac-9602-d17c8958fb8e)
+
 
 ## Webserver Fingerprinting:
 ### Netcat:
