@@ -78,14 +78,14 @@ whatweb google.com
 whatweb yahoo.com
 ```
 ```
-whatweb -v -a 3 172.17.52.201
+whatweb -v -a 3 172.217.160.174
 ```
 ### Output:
 ![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/31726de4-547e-4cf9-92ba-5f1e7e5f4bc9)
 
 ![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/e1eefe87-7eff-474d-969e-38cda47ed8ea)
 
-
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/6ce7eb16-8ceb-42d4-b655-61791bc3b6f9)
 
 
 
