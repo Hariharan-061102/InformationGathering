@@ -43,7 +43,7 @@ get further detail by using ip2location.com website.
 ```
 
 ## Output:
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/8efddf7c-aef5-4a6e-8c2b-d3676e5fd807)
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/0fc6023a-0663-4db9-93e1-c6c90ebe3454)
 
 
 
