@@ -56,11 +56,14 @@ https://web.archive.org/
 ## Webserver Fingerprinting:
 ### Netcat:
 ```
-nc 172.17.52.118 80
+ncat -C google.com
+GET /HTTP/1.0
+
 ```
 ## Output:
 
-![]()
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/c80acbc3-a197-48b5-8ddc-d61d0d4e47b9)
+
 
 ## nmap:
 ```
