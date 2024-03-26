@@ -1,4 +1,4 @@
-# To perform information gathering techniques
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/8eb7c351-047c-413d-ac67-df3c3cd5492d)# To perform information gathering techniques
 
 ## AIM:
 
@@ -92,11 +92,12 @@ whatweb -v -a 3 172.217.160.174
 
 ## httprint:
 ```
-httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
+httprint -h 162.159.153.4 -s /usr/share/httprint/signatures.txt -P0 |more
 ```
 ### Output:
 
-![]()
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/6856bf1e-3c62-4cd2-8469-e7b523dada37)
+
 
 ## Tracing the Location
 ### TCP Traceroute:
