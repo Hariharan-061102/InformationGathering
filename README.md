@@ -64,10 +64,11 @@ nc 172.17.52.118 80
 
 ## nmap:
 ```
-nmap -p 21 -sV --script=banner ftp.vim.org
+nmap -vvv -sV 192.168.23.133
 ```
 ## Output:
-![]()
+![Screenshot 2024-03-22 110607](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/7ca989dc-402d-4e4b-8112-61de863c3b28)
+
 
 
 ### Whatweb:
