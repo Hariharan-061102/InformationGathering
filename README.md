@@ -103,7 +103,8 @@ httprint -h 172.17.52.201 -s /usr/share/httprint/signatures.txt -P0 |more
 sudo traceroute -T www.google.com
 ```
 ## Output:
-![]()
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/00668b61-a98c-41af-95ea-0b17df5697c5)
+
 
 
 ## UDP Traceroute:
@@ -111,7 +112,8 @@ sudo traceroute -T www.google.com
 sudo traceroute -U www.google.com
 ```
 ## Output:
-![]()
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/5fa5ecc3-1f19-497d-872f-30b809e188c3)
+
 
 
 ## ICMP Traceroute:
@@ -119,7 +121,7 @@ sudo traceroute -U www.google.com
 sudo traceroute  www.google.com
 ```
 ## Output:
-![]()
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/f6e32235-ed28-4658-9028-4ed467cd266c)
 
 ## RESULT:
 The information gathering techniques tools/procedure were identified successfully
