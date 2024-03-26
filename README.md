@@ -1,4 +1,4 @@
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/8eb7c351-047c-413d-ac67-df3c3cd5492d)# To perform information gathering techniques
+# To perform information gathering techniques
 
 ## AIM:
 
