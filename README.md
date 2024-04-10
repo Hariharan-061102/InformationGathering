@@ -105,28 +105,31 @@ httprint -h 162.159.153.4 -s /usr/share/httprint/signatures.txt -P0 |more
 ## Tracing the Location
 ### TCP Traceroute:
 ```
-sudo traceroute -T www.google.com
+sudo traceroute -T lms.ai.saveetha.in
 ```
 ## Output:
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/00668b61-a98c-41af-95ea-0b17df5697c5)
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/d2a93aa7-3935-4174-a7f9-37bba41a7a0d)
+
 
 
 
 ## UDP Traceroute:
 ```
-sudo traceroute -U www.google.com
+sudo traceroute -U lms.ai.saveetha.in
 ```
 ## Output:
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/5fa5ecc3-1f19-497d-872f-30b809e188c3)
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/a91954da-205f-424e-ba97-ba83503d48f1)
+
 
 
 
 ## ICMP Traceroute:
 ```
-sudo traceroute  www.google.com
+sudo traceroute  lms.ai.saveetha.in
 ```
 ## Output:
-![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/f6e32235-ed28-4658-9028-4ed467cd266c)
+![image](https://github.com/Hariharan-061102/InformationGathering/assets/93427270/775a3e19-9691-44de-942f-1b293b237418)
+
 
 ## RESULT:
 The information gathering techniques tools/procedure were identified successfully
